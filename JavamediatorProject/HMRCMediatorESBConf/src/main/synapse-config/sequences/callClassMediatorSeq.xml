@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence name="callClassMediatorSeq" trace="disable" xmlns="http://ws.apache.org/ns/synapse">
+    <property name="CITY" scope="default" type="STRING" value="Hyderabad"/>
+    <class name="com.hmrc.sample.wso2.UppercaseConvertMediator">
+        <property name="name" value="Suresh kamma"/>
+    </class>
+    <log>
+        <property expression="$ctx:CONVERTED" name="======================="/>
+    </log>
+</sequence>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<api context="/uppercase" name="callClassMediator" xmlns="http://ws.apache.org/ns/synapse">
+    <resource methods="GET">
+        <inSequence/>
+        <outSequence/>
+        <faultSequence/>
+    </resource>
+</api>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server PASSWORD="admin" SERVER_URL="https://192.168.0.21:9443/" USERNAME="admin" hostname="localhost" id="WSO2 Remote Server at localhost" name="WSO2 Remote Server at localhost" server-type="org.wso2.developerstudio.eclipse.carbon.server.remote" server-type-id="org.wso2.developerstudio.eclipse.carbon.server.remote" start-timeout="600" stop-timeout="15" timestamp="1">
+    <list key="RCS_MODULES_LIST" value0="org.wso2.developerstudio.eclipse.carbon.moduleFactory:HMRCMediatorDistrib"/>
+    <list key="modules" value0="HMRCMediatorDistrib::org.wso2.developerstudio.eclipse.carbon.moduleFactory:HMRCMediatorDistrib::org.wso2.developerstudio.eclipse.carbon.module::1.0"/>
+  </server>
+</servers>
